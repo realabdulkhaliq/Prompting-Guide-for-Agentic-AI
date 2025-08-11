@@ -20,8 +20,10 @@ _We find that these three instructions transform the model from a chatbot-like s
 
 ### 🛠️ Tool Usage Best Practices
 
-Use the tools field in API requests rather than injecting tool descriptions manually.
+- Use the tools field in API requests rather than injecting tool descriptions manually.
 
-Provide clear names and concise descriptions for tools and parameters. (Developers should name tools clearly to indicate their purpose and add a clear, detailed description in the "description" field of the tool.)
+- Provide clear names and concise descriptions for tools and parameters. (Developers should name tools clearly to indicate their purpose and add a clear, detailed description in the "description" field of the tool.)
 
-Include examples in a separate section to guide tool usage.
+- Include examples in a separate section to guide tool usage.
+  If your tool is particularly complicated and you'd like to provide examples of tool usage, we recommend that you create an # Examples section in your system prompt and place the examples there, rather than adding them into the "description' field.
+  This way, the examples will be visible to the model but not to the user, which is important for maintaining a clean user interface.
