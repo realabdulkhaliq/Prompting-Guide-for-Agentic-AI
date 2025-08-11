@@ -22,6 +22,6 @@ _We find that these three instructions transform the model from a chatbot-like s
 
 Use the tools field in API requests rather than injecting tool descriptions manually.
 
-Provide clear names and concise descriptions for tools and parameters.
+Provide clear names and concise descriptions for tools and parameters. (Developers should name tools clearly to indicate their purpose and add a clear, detailed description in the "description" field of the tool.)
 
 Include examples in a separate section to guide tool usage.
