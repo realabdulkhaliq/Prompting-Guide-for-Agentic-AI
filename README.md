@@ -17,3 +17,11 @@ If you are not sure about file content or codebase structure pertaining to the u
 You MUST plan extensively before each function call, and reflect extensively on the outcomes of the previous function calls. DO NOT do this entire process by making function calls only, as this can impair your ability to solve the problem and think insightfully.
 
 _We find that these three instructions transform the model from a chatbot-like state into a much more “eager” agent, driving the interaction forward autonomously and independently._
+
+### 🛠️ Tool Usage Best Practices
+
+Use the tools field in API requests rather than injecting tool descriptions manually.
+
+Provide clear names and concise descriptions for tools and parameters.
+
+Include examples in a separate section to guide tool usage.
