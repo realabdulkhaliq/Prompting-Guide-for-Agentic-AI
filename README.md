@@ -36,6 +36,14 @@ Reduces hallucinations and improves accuracy.
 
 Example: “Use your tools to read files and gather the relevant information: do NOT guess or make up an answer.”
 
+#### 3. Planning
+
+Prompts the model to think step-by-step before and after each tool call.
+
+Enhances reasoning and reflection.
+
+Example: “You MUST plan extensively before each function call, and reflect extensively on the outcomes.”
+
 ### 🛠️ Tool Usage Best Practices
 
 - Use the tools field in API requests rather than injecting tool descriptions manually.
