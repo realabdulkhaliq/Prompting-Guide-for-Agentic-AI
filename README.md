@@ -28,6 +28,14 @@ Prevents premature termination of its turn.
 
 Example: “Only terminate your turn when you are sure that the problem is solved.”
 
+#### 2. Tool-Calling
+
+Encourages the model to use tools to gather information rather than guessing.
+
+Reduces hallucinations and improves accuracy.
+
+Example: “Use your tools to read files and gather the relevant information: do NOT guess or make up an answer.”
+
 ### 🛠️ Tool Usage Best Practices
 
 - Use the tools field in API requests rather than injecting tool descriptions manually.
