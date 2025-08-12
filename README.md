@@ -18,6 +18,16 @@ You MUST plan extensively before each function call, and reflect extensively on 
 
 _We find that these three instructions transform the model from a chatbot-like state into a much more “eager” agent, driving the interaction forward autonomously and independently._
 
+### Key System Prompt Components
+
+#### 1. Persistence
+
+Instructs the model to continue working until the problem is fully resolved.
+
+Prevents premature termination of its turn.
+
+Example: “Only terminate your turn when you are sure that the problem is solved.”
+
 ### 🛠️ Tool Usage Best Practices
 
 - Use the tools field in API requests rather than injecting tool descriptions manually.
