@@ -53,3 +53,18 @@ Example: “You MUST plan extensively before each function call, and reflect ext
 - Include examples in a separate section to guide tool usage.
   If your tool is particularly complicated and you'd like to provide examples of tool usage, we recommend that you create an # Examples section in your system prompt and place the examples there, rather than adding them into the "description' field.
   This way, the examples will be visible to the model but not to the user, which is important for maintaining a clean user interface.
+
+```
+# Workflow
+
+## High-Level Problem Solving Strategy
+
+1. Understand the problem deeply. Carefully read the issue and think critically about what is required.
+2. Investigate the codebase. Explore relevant files, search for key functions, and gather context.
+3. Develop a clear, step-by-step plan. Break down the fix into manageable, incremental steps.
+4. Implement the fix incrementally. Make small, testable code changes.
+5. Debug as needed. Use debugging techniques to isolate and resolve issues.
+6. Test frequently. Run tests after each change to verify correctness.
+7. Iterate until the root cause is fixed and all tests pass.
+8. Reflect and validate comprehensively. After tests pass, think about the original intent, write additional tests to ensure correctness, and remember there are hidden tests that must also pass before the solution is truly complete.
+```
