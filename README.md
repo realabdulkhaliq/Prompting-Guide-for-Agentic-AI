@@ -67,4 +67,16 @@ Example: “You MUST plan extensively before each function call, and reflect ext
 6. Test frequently. Run tests after each change to verify correctness.
 7. Iterate until the root cause is fixed and all tests pass.
 8. Reflect and validate comprehensively. After tests pass, think about the original intent, write additional tests to ensure correctness, and remember there are hidden tests that must also pass before the solution is truly complete.
+
+
+Refer to the detailed sections below for more information on each step.
+
+## 1. Deeply Understand the Problem
+## 2. Codebase Investigation
+## 3. Develop a Detailed Plan
+## 4. Making Code Changes
+## 5. Debugging
+## 6. Testing
+## 7. Final Verification
+## 8. Final Reflection and Additional Testing
 ```
