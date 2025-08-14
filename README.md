@@ -85,7 +85,7 @@ Refer to the detailed sections below for more information on each step.
 
 GPT-4.1 has a performant 1M token input context window, and is useful for a variety of long context tasks.
 
-_Long context tasks: including structured document parsing, re-ranking, selecting relevant information_
+_Long context tasks: including structured document parsing, re-ranking, selecting relevant information, and performing multi-hop reasoning using context._
 
 ## 3. Chain of Thought
 
