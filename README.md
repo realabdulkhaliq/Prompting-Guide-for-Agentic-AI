@@ -88,3 +88,9 @@ GPT-4.1 has a performant 1M token input context window, and is useful for a vari
 ## 3. Chain of Thought
 
 As mentioned above, GPT-4.1 is not a reasoning model, but prompting the model to think step by step (called “chain of thought”) can be an effective way for a model to break down problems into more manageable pieces, solve them, and improve overall output quality, with the tradeoff of higher cost and latency associated with using more output tokens.
+
+We recommend starting with this basic chain-of-thought instruction at the end of your prompt:
+
+```
+First, think carefully step by step about what documents are needed to answer the query. Then, print out the TITLE and ID of each document. Then, format the IDs into a list.
+```
