@@ -123,3 +123,7 @@ Here is an example prompt instructing the model to focus more methodically on an
 	b. Relevance rating: [high, medium, low, none]
 3. Synthesis: summarize which documents are most relevant and why, including all documents with a relevance rating of medium or higher.
 ```
+
+## 4. Instruction Following
+
+GPT-4.1 exhibits outstanding instruction-following performance, which developers can leverage to precisely shape and control the outputs for their particular use cases.
