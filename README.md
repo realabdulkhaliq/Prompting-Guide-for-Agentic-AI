@@ -110,3 +110,5 @@ We recommend starting with this basic chain-of-thought instruction at the end of
 ```
 First, think carefully step by step about what documents are needed to answer the query. Then, print out the TITLE and ID of each document. Then, format the IDs into a list.
 ```
+
+_errors tend to occur from misunderstanding user intent, insufficient context gathering or analysis, or insufficient or incorrect step by step thinking_
