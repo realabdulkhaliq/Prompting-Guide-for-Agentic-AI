@@ -97,6 +97,10 @@ _long context performance can degrade as more items are required to be retrieved
 - By default, use the provided external context to answer the User Query, but if other basic knowledge is needed to answer, and you're confident in the answer, you can use some of your own knowledge to help answer the question.
 ```
 
+## Prompt Organization
+
+place your instructions at both the beginning and end of the provided context
+
 ## 3. Chain of Thought
 
 As mentioned above, GPT-4.1 is not a reasoning model, but prompting the model to think step by step (called “chain of thought”) can be an effective way for a model to break down problems into more manageable pieces, solve them, and improve overall output quality, with the tradeoff of higher cost and latency associated with using more output tokens.
