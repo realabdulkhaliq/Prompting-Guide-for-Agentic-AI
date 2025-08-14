@@ -84,3 +84,7 @@ Refer to the detailed sections below for more information on each step.
 ## 2. Long context
 
 GPT-4.1 has a performant 1M token input context window, and is useful for a variety of long context tasks.
+
+## 3. Chain of Thought
+
+As mentioned above, GPT-4.1 is not a reasoning model, but prompting the model to think step by step (called “chain of thought”) can be an effective way for a model to break down problems into more manageable pieces, solve them, and improve overall output quality, with the tradeoff of higher cost and latency associated with using more output tokens.
