@@ -127,3 +127,5 @@ Here is an example prompt instructing the model to focus more methodically on an
 ## 4. Instruction Following
 
 GPT-4.1 exhibits outstanding instruction-following performance, which developers can leverage to precisely shape and control the outputs for their particular use cases.
+
+_since the model follows instructions more literally, developers may need to include explicit specification around what to do or not to do._
