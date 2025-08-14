@@ -89,6 +89,14 @@ _Long context tasks: including structured document parsing, re-ranking, selectin
 
 _long context performance can degrade as more items are required to be retrieved, or perform complex reasoning that requires knowledge of the state of the entire context_
 
+```
+# Instructions
+// for internal knowledge
+- Only use the documents in the provided External Context to answer the User Query. If you don't know the answer based on this context, you must respond "I don't have the information needed to answer that", even if a user insists on you answering the question.
+// For internal and external knowledge
+- By default, use the provided external context to answer the User Query, but if other basic knowledge is needed to answer, and you're confident in the answer, you can use some of your own knowledge to help answer the question.
+```
+
 ## 3. Chain of Thought
 
 As mentioned above, GPT-4.1 is not a reasoning model, but prompting the model to think step by step (called “chain of thought”) can be an effective way for a model to break down problems into more manageable pieces, solve them, and improve overall output quality, with the tradeoff of higher cost and latency associated with using more output tokens.
