@@ -80,3 +80,7 @@ Refer to the detailed sections below for more information on each step.
 ## 7. Final Verification
 ## 8. Final Reflection and Additional Testing
 ```
+
+## 2. Long context
+
+GPT-4.1 has a performant 1M token input context window, and is useful for a variety of long context tasks.
