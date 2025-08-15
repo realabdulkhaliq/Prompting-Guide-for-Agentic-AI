@@ -129,3 +129,11 @@ Here is an example prompt instructing the model to focus more methodically on an
 GPT-4.1 exhibits outstanding instruction-following performance, which developers can leverage to precisely shape and control the outputs for their particular use cases.
 
 _since the model follows instructions more literally, developers may need to include explicit specification around what to do or not to do._
+
+## Recommended Workflow
+
+Here is our recommended workflow for developing and debugging instructions in prompts:
+
+1. Start with an overall “Response Rules” or “Instructions” section with high-level guidance and bullet points.
+2. If you’d like to change a more specific behavior, add a section to specify more details for that category, like # Sample Phrases.
+3. If there are specific steps you’d like the model to follow in its workflow, add an ordered list and instruct the model to follow these steps.
