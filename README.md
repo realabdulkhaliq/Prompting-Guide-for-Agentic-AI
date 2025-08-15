@@ -137,3 +137,7 @@ Here is our recommended workflow for developing and debugging instructions in pr
 1. Start with an overall “Response Rules” or “Instructions” section with high-level guidance and bullet points.
 2. If you’d like to change a more specific behavior, add a section to specify more details for that category, like # Sample Phrases.
 3. If there are specific steps you’d like the model to follow in its workflow, add an ordered list and instruct the model to follow these steps.
+4. If behavior still isn’t working as expected:
+   1. Check for conflicting, underspecified, or wrong instructions and examples. If there are conflicting instructions, GPT-4.1 tends to follow the one closer to the end of the prompt.
+   2. Add examples that demonstrate desired behavior; ensure that any important behavior demonstrated in your examples are also cited in your rules.
+   3. It’s generally not necessary to use all-caps or other incentives like bribes or tips. We recommend starting without these, and only reaching for these if necessary for your particular prompt. Note that if your existing prompts include these techniques, it could cause GPT-4.1 to pay attention to it too strictly.
