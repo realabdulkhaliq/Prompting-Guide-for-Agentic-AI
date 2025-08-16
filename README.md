@@ -147,3 +147,5 @@ _Note that using your preferred AI-powered IDE can be very helpful for iterating
 ## Common Failure Modes
 
 These failure modes are not unique to GPT-4.1, but we share them here for general awareness and ease of debugging.
+
+- Instructing a model to always follow a specific behavior can occasionally induce adverse effects. For instance, if told “you must call a tool before responding to the user,” models may hallucinate tool inputs or call the tool with null values if they do not have enough information. **Adding “if you don’t have enough information to call the tool, ask the user for the information you need” should mitigate this.**
