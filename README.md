@@ -143,3 +143,7 @@ Here is our recommended workflow for developing and debugging instructions in pr
    3. It’s generally not necessary to use all-caps or other incentives like bribes or tips. We recommend starting without these, and only reaching for these if necessary for your particular prompt. Note that if your existing prompts include these techniques, it could cause GPT-4.1 to pay attention to it too strictly.
 
 _Note that using your preferred AI-powered IDE can be very helpful for iterating on prompts, including checking for consistency or conflicts, adding examples, or making cohesive updates like adding an instruction and updating instructions to demonstrate that instruction._
+
+## Common Failure Modes
+
+These failure modes are not unique to GPT-4.1, but we share them here for general awareness and ease of debugging.
