@@ -200,3 +200,19 @@ These failure modes are not unique to GPT-4.1, but we share them here for genera
 ### Prompt Structure
 
 For reference, here is a good starting point for structuring your prompts.
+
+RISROECF
+
+```
+# Role and Objective
+# Instructions
+## Sub-categories for more detailed instructions
+# Reasoning Steps
+# Output Format
+# Examples
+## Example 1
+# Context
+# Final instructions and prompt to think step by step
+```
+
+Add or remove sections to suit your needs, and experiment to determine what’s optimal for your usage.
