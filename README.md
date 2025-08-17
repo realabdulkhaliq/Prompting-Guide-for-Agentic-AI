@@ -194,3 +194,9 @@ These failure modes are not unique to GPT-4.1, but we share them here for genera
 
 # Example
 ```
+
+## 5. General Advice
+
+### Prompt Structure
+
+For reference, here is a good starting point for structuring your prompts.
