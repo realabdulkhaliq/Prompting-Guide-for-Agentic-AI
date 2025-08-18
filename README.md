@@ -220,3 +220,5 @@ Add or remove sections to suit your needs, and experiment to determine what’s 
 ### Delimiters
 
 Here are some general guidelines for selecting the best delimiters for your prompt. Please refer to the Long Context section for special considerations for that context type.
+
+- Markdown: We recommend starting here, and using markdown titles for major sections and subsections (including deeper hierarchy, to H4+). Use inline backticks or backtick blocks to precisely wrap code, and standard numbered or bulleted lists as needed.
