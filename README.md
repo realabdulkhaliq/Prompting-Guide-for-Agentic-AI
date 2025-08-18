@@ -216,3 +216,7 @@ RISROECF
 ```
 
 Add or remove sections to suit your needs, and experiment to determine what’s optimal for your usage.
+
+### Delimiters
+
+Here are some general guidelines for selecting the best delimiters for your prompt. Please refer to the Long Context section for special considerations for that context type.
