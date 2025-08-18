@@ -222,3 +222,13 @@ Add or remove sections to suit your needs, and experiment to determine what’s 
 Here are some general guidelines for selecting the best delimiters for your prompt. Please refer to the Long Context section for special considerations for that context type.
 
 - Markdown: We recommend starting here, and using markdown titles for major sections and subsections (including deeper hierarchy, to H4+). Use inline backticks or backtick blocks to precisely wrap code, and standard numbered or bulleted lists as needed.
+- XML: These also perform well, and we have improved adherence to information in XML with this model. XML is convenient to precisely wrap a section including start and end, add metadata to the tags for additional context, and enable nesting. Here is an example of using XML tags to nest examples in an example section, with inputs and outputs for each:
+
+```
+<examples>
+<example1 type="Abbreviate">
+<input>San Francisco</input>
+<output>- SF</output>
+</example1>
+</examples>
+```
