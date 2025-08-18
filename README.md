@@ -232,3 +232,5 @@ Here are some general guidelines for selecting the best delimiters for your prom
 </example1>
 </examples>
 ```
+
+- JSON is highly structured and well understood by the model particularly in coding contexts. However it can be more verbose, and require character escaping that can add overhead.
