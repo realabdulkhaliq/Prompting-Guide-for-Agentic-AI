@@ -26,5 +26,7 @@ Early stop criteria:
 - You can name exact content to change.
 - Top hits converge (~70%) on one area/path.
 
+Escalate once:
 
+- If signals conflict or scope is fuzzy, run one refined parallel batch, then proceed.
 ```
