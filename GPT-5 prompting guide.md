@@ -14,4 +14,10 @@ _If adopting GPT-5 for agentic and tool calling flows, we recommend upgrading to
 ```
 <context_gathering>
 Goal: Get enough context fast. Parallelize discovery and stop as soon as you can act.
+
+Method:
+
+- Start broad, then fan out to focused subqueries.
+- In parallel, launch varied queries; read top hits per query. Deduplicate paths and cache, and don’t repeat queries.
+- Avoid over searching for context. If needed, run targeted searches in one parallel batch.
 ```
