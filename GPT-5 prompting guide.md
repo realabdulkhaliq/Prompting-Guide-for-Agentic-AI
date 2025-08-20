@@ -34,4 +34,10 @@ Depth:
 
 - Trace only symbols you’ll modify or whose contracts you rely on; avoid transitive expansion unless necessary.
 
+Loop:
+
+- Batch search → minimal plan → complete task.
+- Search again only if validation fails or new unknowns appear. Prefer acting over more searching.
+  </context_gathering>
+
 ```
