@@ -10,3 +10,8 @@ _If adopting GPT-5 for agentic and tool calling flows, we recommend upgrading to
 
 - Switch to a lower reasoning_effort. This reduces exploration depth but improves efficiency and latency. Many workflows can be accomplished with consistent results at medium or even low reasoning_effort.
 - Define clear criteria in your prompt for how you want the model to explore the problem space. This reduces the model’s need to explore and reason about too many ideas:
+
+```
+<context_gathering>
+Goal: Get enough context fast. Parallelize discovery and stop as soon as you can act.
+```
