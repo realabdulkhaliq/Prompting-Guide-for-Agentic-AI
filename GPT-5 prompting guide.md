@@ -29,4 +29,9 @@ Early stop criteria:
 Escalate once:
 
 - If signals conflict or scope is fuzzy, run one refined parallel batch, then proceed.
+
+Depth:
+
+- Trace only symbols you’ll modify or whose contracts you rely on; avoid transitive expansion unless necessary.
+
 ```
