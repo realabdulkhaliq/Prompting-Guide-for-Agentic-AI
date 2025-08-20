@@ -20,4 +20,11 @@ Method:
 - Start broad, then fan out to focused subqueries.
 - In parallel, launch varied queries; read top hits per query. Deduplicate paths and cache, and don’t repeat queries.
 - Avoid over searching for context. If needed, run targeted searches in one parallel batch.
+
+Early stop criteria:
+
+- You can name exact content to change.
+- Top hits converge (~70%) on one area/path.
+
+
 ```
