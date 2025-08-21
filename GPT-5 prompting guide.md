@@ -41,3 +41,5 @@ Loop:
   </context_gathering>
 
 ```
+
+If you’re willing to be maximally prescriptive, you can even set fixed tool call budgets, like the one below. The budget can naturally vary based on your desired search depth.
