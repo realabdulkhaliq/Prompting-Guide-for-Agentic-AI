@@ -43,3 +43,11 @@ Loop:
 ```
 
 If you’re willing to be maximally prescriptive, you can even set fixed tool call budgets, like the one below. The budget can naturally vary based on your desired search depth.
+
+```
+
+<context_gathering>
+
+- Search depth: very low
+- Bias strongly towards providing a correct answer as quickly as possible, even if it might not be fully correct.
+```
