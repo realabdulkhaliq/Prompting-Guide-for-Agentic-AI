@@ -50,4 +50,8 @@ If you’re willing to be maximally prescriptive, you can even set fixed tool ca
 
 - Search depth: very low
 - Bias strongly towards providing a correct answer as quickly as possible, even if it might not be fully correct.
+- Usually, this means an absolute maximum of 2 tool calls.
+- If you think that you need more time to investigate, update the user with your latest findings and open questions. You can proceed if the user confirms.
+  </context_gathering>
+
 ```
