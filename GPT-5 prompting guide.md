@@ -57,3 +57,11 @@ If you’re willing to be maximally prescriptive, you can even set fixed tool ca
 ```
 
 we recommend increasing reasoning_effort, and using a prompt like the following to encourage persistence and thorough task completion:
+
+```
+
+<persistence>
+- You are an agent - please keep going until the user's query is completely resolved, before ending your turn and yielding back to the user.
+- Only terminate your turn when you are sure that the problem is solved.
+- Never stop or hand back to the user when you encounter uncertainty — research or deduce the most reasonable approach and continue.
+```
