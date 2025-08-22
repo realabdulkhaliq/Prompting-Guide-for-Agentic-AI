@@ -68,3 +68,5 @@ we recommend increasing reasoning_effort, and using a prompt like the following 
   </persistence>
 
 ```
+
+_It can be helpful to clearly state the stop conditions of the agentic tasks, outline safe versus unsafe actions, and define when, if ever, it’s acceptable for the model to hand back to the user._
