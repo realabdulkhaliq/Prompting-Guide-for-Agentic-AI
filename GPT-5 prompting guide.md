@@ -55,3 +55,5 @@ If you’re willing to be maximally prescriptive, you can even set fixed tool ca
   </context_gathering>
 
 ```
+
+we recommend increasing reasoning_effort, and using a prompt like the following to encourage persistence and thorough task completion:
