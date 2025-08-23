@@ -74,3 +74,16 @@ _It can be helpful to clearly state the stop conditions of the agentic tasks, ou
 ### Tool preambles
 
 You can steer the frequency, style, and content of tool preambles in your prompt—from detailed explanations of every single tool call to a brief upfront plan and everything in between.
+
+This is an example of a high-quality preamble prompt:
+
+```
+
+<tool_preambles>
+
+- Always begin by rephrasing the user's goal in a friendly, clear, and concise manner, before calling any tools.
+- Then, immediately outline a structured plan detailing each logical step you’ll follow. - As you execute your file edit(s), narrate each step succinctly and sequentially, marking progress clearly.
+- Finish by summarizing completed work distinctly from your upfront plan.
+  </tool_preambles>
+
+```
