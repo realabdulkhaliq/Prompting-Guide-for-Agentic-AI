@@ -70,3 +70,7 @@ we recommend increasing reasoning_effort, and using a prompt like the following 
 ```
 
 _It can be helpful to clearly state the stop conditions of the agentic tasks, outline safe versus unsafe actions, and define when, if ever, it’s acceptable for the model to hand back to the user._
+
+### Tool preambles
+
+You can steer the frequency, style, and content of tool preambles in your prompt—from detailed explanations of every single tool call to a brief upfront plan and everything in between.
