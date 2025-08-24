@@ -87,3 +87,7 @@ This is an example of a high-quality preamble prompt:
   </tool_preambles>
 
 ```
+
+### Reasoning effort
+
+We provide a reasoning_effort parameter to control how hard the model thinks and how willingly it calls tools; the default is medium, but you should scale up or down depending on the difficulty of your task. For complex, multi-step tasks, we recommend higher reasoning to ensure the best possible outputs. Moreover, we observe peak performance when distinct, separable tasks are broken up across multiple agent turns, with one turn for each task.
