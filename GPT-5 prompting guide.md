@@ -95,3 +95,11 @@ We provide a reasoning_effort parameter to control how hard the model thinks and
 ### Reusing reasoning context with the Responses API
 
 We strongly recommend using the Responses API when using GPT-5 to unlock improved agentic flows, lower costs, and more efficient token usage in your applications.
+
+### model's frontend capabilities:
+
+Frameworks: Next.js (TypeScript), React, HTML
+Styling / UI: Tailwind CSS, shadcn/ui, Radix Themes
+Icons: Material Symbols, Heroicons, Lucide
+Animation: Motion
+Fonts: San Serif, Inter, Geist, Mona Sans, IBM Plex Sans, Manrope
