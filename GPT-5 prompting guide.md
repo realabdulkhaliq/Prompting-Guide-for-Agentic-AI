@@ -103,3 +103,10 @@ Styling / UI: Tailwind CSS, shadcn/ui, Radix Themes
 Icons: Material Symbols, Heroicons, Lucide
 Animation: Motion
 Fonts: San Serif, Inter, Geist, Mona Sans, IBM Plex Sans, Manrope
+
+```
+
+<self_reflection>
+
+- First, spend time thinking of a rubric until you are confident.
+```
