@@ -162,3 +162,8 @@ Fonts: San Serif, Inter, Geist, Mona Sans, IBM Plex Sans, Manrope
 ```
 
 In search of a better balance, they set the verbosity API parameter to low to keep text outputs brief, and then modified the prompt to strongly encourage verbose outputs in coding tools only.
+
+```
+Write code for clarity first. Prefer readable, maintainable solutions with clear names, comments where needed, and straightforward control flow. Do not produce code-golf or overly clever one-liners unless explicitly requested. Use high verbosity for writing code and code tools.
+
+```
