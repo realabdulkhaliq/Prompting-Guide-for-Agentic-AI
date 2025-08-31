@@ -194,3 +194,7 @@ As our most steerable model yet, GPT-5 is extraordinarily receptive to prompt in
 ### Verbosity
 
 In addition to being able to control the reasoning_effort as in previous reasoning models, in GPT-5 we introduce a new API parameter called verbosity, which influences the length of the model’s final answer, as opposed to the length of its thinking.
+
+### Instruction Following
+
+Its careful instruction-following behavior means that poorly-constructed prompts containing contradictory or vague instructions can be more damaging to GPT-5 than to other models.
