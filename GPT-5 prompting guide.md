@@ -184,3 +184,5 @@ Be THOROUGH when gathering information. Make sure you have the FULL picture befo
 ...
 </maximize_context_understanding>
 ```
+
+GPT-5 make better decisions about when to rely on internal knowledge versus reaching for external tools.
