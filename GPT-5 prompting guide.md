@@ -190,3 +190,7 @@ GPT-5 make better decisions about when to rely on internal knowledge versus reac
 ### Steering
 
 As our most steerable model yet, GPT-5 is extraordinarily receptive to prompt instructions surrounding verbosity, tone, and tool calling behavior.
+
+### Verbosity
+
+In addition to being able to control the reasoning_effort as in previous reasoning models, in GPT-5 we introduce a new API parameter called verbosity, which influences the length of the model’s final answer, as opposed to the length of its thinking.
