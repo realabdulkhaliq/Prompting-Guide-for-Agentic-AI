@@ -33,3 +33,11 @@ A sprawling futuristic cityscape at sunset, featuring towering skyscrapers adorn
 
 Prompt 4
 Make me look like i am in 1900s in subcontenent. Change my fashion, hairstyle and background.
+
+Or
+
+You are a prompt engineer. Given the following user request, generate a detailed and specific prompt for an AI image generation model to create an image that meets the user's needs.
+User request
+Make me look like I am in 1900s in subcontinent. Change my fashion, hairstyle and background.
+Generated prompt  
+A portrait of a person styled to resemble the 1920s in the Indian subcontinent. The individual is dressed in traditional attire from that era, such as a kurta or
