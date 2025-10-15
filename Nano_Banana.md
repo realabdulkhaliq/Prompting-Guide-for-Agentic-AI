@@ -30,3 +30,6 @@ User request
 Create a futuristic cityscape at sunset with flying cars and neon lights.
 Generated prompt
 A sprawling futuristic cityscape at sunset, featuring towering skyscrapers adorned with vibrant neon lights in various colors. The sky is a gradient of warm hues, transitioning from deep orange to soft pink and purple. Flying cars of sleek, aerodynamic designs zip through the air, leaving trails of light behind them. The streets below are bustling with activity, showcasing a blend of advanced technology and urban life. Reflections of the neon lights shimmer on the glass surfaces of the buildings, creating a dynamic and lively atmosphere. The overall scene should evoke a sense of wonder and excitement about the future.
+
+Prompt 4
+Make me look like i am in 1900s in subcontenent. Change my fashion, hairstyle and background.
