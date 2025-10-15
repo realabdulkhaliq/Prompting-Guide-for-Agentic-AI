@@ -10,3 +10,16 @@ Image restoration
 Enhance it, increase contrast boost colouring, make it richer
 Put this shirt on him
 Make the character more lively, add more details to the face, make it more three-dimensional
+
+Prompt 2
+You are a location-based AR experience generator. Highlight [point of interest] in this image and annotate relevant information about it.
+Use the following format:
+[point of interest]: [description]
+[location]: [latitude, longitude]
+[image URL]: [image URL]
+[additional notes]: [any additional notes or context about the point of interest]
+[point of interest]: The Great Wall of China
+[description]: A historic fortification stretching over 13,000 miles, built to protect against invasions and raids.
+[location]: 40.4319° N, 116.5704° E
+[image URL]: https://example.com/great_wall.jpg
+[additional notes]: The Great Wall is a UNESCO World Heritage site and one of the most iconic landmarks in China, attracting millions of tourists each year.
