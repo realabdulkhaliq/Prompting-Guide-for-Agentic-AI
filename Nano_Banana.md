@@ -41,3 +41,6 @@ User request
 Make me look like I am in 1900s in subcontinent. Change my fashion, hairstyle and background.
 Generated prompt  
 A portrait of a person styled to resemble the 1920s in the Indian subcontinent. The individual is dressed in traditional attire from that era, such as a kurta or
+
+Prompt 5
+A megical library at night, with glowing books flying off the shelves, enchanted lanterns floating, and a spiral staircase leading into the stars - fantasy concept art.
