@@ -44,3 +44,6 @@ A portrait of a person styled to resemble the 1920s in the Indian subcontinent. 
 
 Prompt 5
 A megical library at night, with glowing books flying off the shelves, enchanted lanterns floating, and a spiral staircase leading into the stars - fantasy concept art.
+
+Prompt 6
+A serene forest glade bathed in the soft light of dawn, with ethereal creatures like fairies and unicorns gently interacting with the environment. The trees are tall and ancient, their leaves shimmering with a magical glow. A crystal-clear stream winds through the glade, reflecting the pastel colors of the sky. In the background, a majestic castle can be seen perched atop a hill, its spires reaching towards the heavens. The overall atmosphere is one of tranquility and enchantment, inviting viewers to immerse themselves in this fantastical world.
