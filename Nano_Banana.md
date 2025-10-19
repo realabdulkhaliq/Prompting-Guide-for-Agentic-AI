@@ -53,3 +53,9 @@ A rustic farmhouse surrounded by rolling green hills, with a red barn, wooden fe
 
 Prompt 8
 A mysterious underwater forest filled with glowing plants, fish weaving through the trees, and shafts of sunlight filtering down from above - fantasy illustration.
+
+Hints
+
+- Use descriptive language to create vivid imagery.
+  Photorealistic
+- Focus on lighting and atmosphere to enhance the mood.
