@@ -59,3 +59,6 @@ Hints
 - Use descriptive language to create vivid imagery.
   Photorealistic
 - Focus on lighting and atmosphere to enhance the mood.
+
+Prompt 9
+A bustling medieval marketplace at midday, with vendors selling colorful goods, townsfolk in period attire, and lively interactions. Stalls are adorned with vibrant fabrics, fresh produce, and handcrafted items. The architecture features timber-framed buildings with thatched roofs, cobblestone streets, and a central fountain where children play. Sunlight filters through the scene, casting warm highlights and soft shadows, creating a lively and immersive atmosphere that captures the essence of medieval life.
