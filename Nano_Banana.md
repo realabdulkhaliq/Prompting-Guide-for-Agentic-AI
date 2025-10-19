@@ -50,3 +50,6 @@ A serene forest glade bathed in the soft light of dawn, with ethereal creatures 
 
 Prompt 7
 A rustic farmhouse surrounded by rolling green hills, with a red barn, wooden fence and sunflowers lining the path, under a golden sunset - photorealistic, warm, cinematic lighting.
+
+Prompt 8
+A mysterious underwater forest filled with glowing plants, fish weaving through the trees, and shafts of sunlight filtering down from above - fantasy illustration.
