@@ -80,3 +80,7 @@ Replace the character in image 1 with the pose from image 2, shot in a professio
 ##### Example 3: Stick figure annotation
 
 ![Stick figure annotation](1760889556721.jpg)
+
+##### Example 4: Product Photo merge with Human photo
+
+![Product Photo merge with Human photo](1760889556694.jpg)
