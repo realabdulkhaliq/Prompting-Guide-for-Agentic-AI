@@ -88,3 +88,4 @@ Replace the character in image 1 with the pose from image 2, shot in a professio
 ##### Example 5: 13 images merges into a single image
 
 A model is posing and leaning against a pink bmw. She is wearing the following items, the scene is against a light grey background. The green alien is a keychain and it's attached to the pink handbag. The model also has a pink parrot on her shoulder. There is a pug sitting next to her wearing a pink collar and gold headphones.
+![13 images merges into a single image](1760889556748.jpg)
