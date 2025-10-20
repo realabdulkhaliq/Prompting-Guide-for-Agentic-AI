@@ -65,3 +65,9 @@ A bustling medieval marketplace at midday, with vendors selling colorful goods, 
 
 Prompt 10
 An ancient Egyption marketplace filled with merchants, camels, and pottery, but witha futuristic time traveler in a sleek suit walkig through - cinematic style.
+
+##### From screenshot annotation
+
+Prompt 11
+You are a location based AR experienced generator. Highlight [Point of Interest] in this image and annotate relevant information about it.
+![AR experienced generator](1760889556803.jpg)
