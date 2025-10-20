@@ -76,3 +76,7 @@ You are a location based AR experienced generator. Highlight [Point of Interest]
 
 Replace the character in image 1 with the pose from image 2, shot in a professional photography studio.
 ![Hand Made Character to Original](1760889556775.jpg)
+
+##### Example 3: Stick figure annotation
+
+![Stick figure annotation](1760889556721.jpg)
