@@ -89,3 +89,6 @@ Replace the character in image 1 with the pose from image 2, shot in a professio
 
 A model is posing and leaning against a pink bmw. She is wearing the following items, the scene is against a light grey background. The green alien is a keychain and it's attached to the pink handbag. The model also has a pink parrot on her shoulder. There is a pug sitting next to her wearing a pink collar and gold headphones.
 ![13 images merges into a single image](1760889556748.jpg)
+
+Prompt 12
+Generate a hyper-realistic cinematic editorial portrait of the uploaded person (preserve exact real face, hairstyle, skin tone, and body identity no changes).Scene: dark moody studio with thick smoke drifting low across the floor, adding depth and mystery. Lighting: single dramatic beam from top-left, creating strong chiaroscuro shadows, with rim light outlining suit textures and jawline.
