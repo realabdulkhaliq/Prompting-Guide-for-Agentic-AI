@@ -92,3 +92,6 @@ A model is posing and leaning against a pink bmw. She is wearing the following i
 
 Prompt 12
 Generate a hyper-realistic cinematic editorial portrait of the uploaded person (preserve exact real face, hairstyle, skin tone, and body identity no changes).Scene: dark moody studio with thick smoke drifting low across the floor, adding depth and mystery. Lighting: single dramatic beam from top-left, creating strong chiaroscuro shadows, with rim light outlining suit textures and jawline.
+
+Prompt 13
+Make my photo Overhead high angle 3:4 full-body shot of a man lying relaxed on the hood of an orange Lamborghini Urus in a dim basement garage. Wearing a crisp white open collar shirt, brown trousers, polished shoes, and a leather strap watch. Tattoo visible on forearm. Soft sunbeam lighting with natural reflections on car, cinematic warm color grading, shallow depth of field, creamy bokeh, hyper-realistic 8K detail, billionaire vibe.
