@@ -95,3 +95,6 @@ Generate a hyper-realistic cinematic editorial portrait of the uploaded person (
 
 Prompt 13
 Make my photo Overhead high angle 3:4 full-body shot of a man lying relaxed on the hood of an orange Lamborghini Urus in a dim basement garage. Wearing a crisp white open collar shirt, brown trousers, polished shoes, and a leather strap watch. Tattoo visible on forearm. Soft sunbeam lighting with natural reflections on car, cinematic warm color grading, shallow depth of field, creamy bokeh, hyper-realistic 8K detail, billionaire vibe.
+
+Prompt 14
+Ultra HD 8K Photorealistic ultra HD 8K portrait of a well-groomed man with dark hair and a full beard in a perfectly tailored black three-piece suit, white dress shirt, black silk tie and white pocket square, wearing matte black sunglasses and adjusting a luxury wristwatch with both hands. Low-key studio lighting from the subject's right creating dramatic Rembrandt shadows and a crisp cast shadow on a neutral wall.
