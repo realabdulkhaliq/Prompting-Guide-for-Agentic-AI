@@ -101,3 +101,6 @@ Ultra HD 8K Photorealistic ultra HD 8K portrait of a well-groomed man with dark 
 
 Prompt 15
 Generate a hyper-realistic cinematic editorial portrait of the uploaded person (preserve exact real face, hairstyle, skin tone, and body identity no changes). Scene: dark moody studio with thick smoke drifting low across the floor, adding depth and mystery. Lighting: single dramatic beam from top-left, creating strong chiaroscuro shadows, with rim light outlining suit textures and jawline. Composition: two versions of the same person.
+
+Prompt 16
+Hyper-realistic urban fashion portrait of a young man sitting in a stylized pose, with a low angle emphasizing his sneakers. He wears an oversized light-toned athletic outfit, featuring a hoodie and a voluminous plush jacket. The sneakers have a modern design, white with vibrant purple details, creating a striking contrast against a vivid Butter Yellow (#F6D860) background. The setting is minimalist, with a solid yellow backdrop that highlights the figures.
