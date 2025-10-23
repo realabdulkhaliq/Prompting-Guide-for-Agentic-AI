@@ -104,3 +104,6 @@ Generate a hyper-realistic cinematic editorial portrait of the uploaded person (
 
 Prompt 16
 Hyper-realistic urban fashion portrait of a young man sitting in a stylized pose, with a low angle emphasizing his sneakers. He wears an oversized light-toned athletic outfit, featuring a hoodie and a voluminous plush jacket. The sneakers have a modern design, white with vibrant purple details, creating a striking contrast against a vivid Butter Yellow (#F6D860) background. The setting is minimalist, with a solid yellow backdrop that highlights the figures.
+
+Prompt 17
+A cinematic ultrawide, low-angle shot of a young man standing in the same outdoor setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolledup sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.
