@@ -98,3 +98,6 @@ Make my photo Overhead high angle 3:4 full-body shot of a man lying relaxed on t
 
 Prompt 14
 Ultra HD 8K Photorealistic ultra HD 8K portrait of a well-groomed man with dark hair and a full beard in a perfectly tailored black three-piece suit, white dress shirt, black silk tie and white pocket square, wearing matte black sunglasses and adjusting a luxury wristwatch with both hands. Low-key studio lighting from the subject's right creating dramatic Rembrandt shadows and a crisp cast shadow on a neutral wall.
+
+Prompt 15
+Generate a hyper-realistic cinematic editorial portrait of the uploaded person (preserve exact real face, hairstyle, skin tone, and body identity no changes). Scene: dark moody studio with thick smoke drifting low across the floor, adding depth and mystery. Lighting: single dramatic beam from top-left, creating strong chiaroscuro shadows, with rim light outlining suit textures and jawline. Composition: two versions of the same person.
