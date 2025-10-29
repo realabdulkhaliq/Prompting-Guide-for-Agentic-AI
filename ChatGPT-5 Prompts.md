@@ -5,3 +5,7 @@ Prompt: Pretend you are an expert with 20 years of experience in {industry/ topi
 2️⃣ Brutally honest thought partner xxto sharpen your thinking
 
 Prompt: Act as my personal thought partner. I'll describe {my idea/problem}, and I want you to question every assumption, point out blind spots, and help me evolve it into something 10x better.
+
+3️⃣ Copywriting that actually converts
+
+Prompt: You're a world-class copywriter. Rewrite this {landing page/sales pitch/email} to convert better. Make it punchy, concise, and persuasive. Use proven frameworks like PAS or AIDA. Here's the original: { paste it).
