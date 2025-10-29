@@ -9,3 +9,7 @@ Prompt: Act as my personal thought partner. I'll describe {my idea/problem}, and
 3️⃣ Copywriting that actually converts
 
 Prompt: You're a world-class copywriter. Rewrite this {landing page/sales pitch/email} to convert better. Make it punchy, concise, and persuasive. Use proven frameworks like PAS or AIDA. Here's the original: { paste it).
+
+4️⃣ Psychoanalyze yourself like a Nobel xxpsychologist would
+
+Prompt: Act like a Nobel-winning psychologist. Analyze my behavior pattern: {describe it}. What's likely causing it? What mindset shifts, habits, or actions would help me overcome it?"
