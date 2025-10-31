@@ -17,3 +17,7 @@ Prompt: Act like a Nobel-winning psychologist. Analyze my behavior pattern: {des
 5️⃣ Startup roadmap from idea to $10k revenue
 
 Prompt: Be my startup mentor. I have this idea: {idea). Help me refine it, validate the market, uncover monetization options, and outline a roadmap from MVP to first $10k in revenue.
+
+6️⃣ Learn hard topics like you're 10 and actually remember them
+
+Prompt: Teach me {any complex skill or topic} like I'm 10 years old. Use simple language, metaphors, and examples. After each explanation, quiz me to check my understanding and reinforce learning.
