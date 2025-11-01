@@ -21,3 +21,7 @@ Prompt: Be my startup mentor. I have this idea: {idea). Help me refine it, valid
 6️⃣ Learn hard topics like you're 10 and actually remember them
 
 Prompt: Teach me {any complex skill or topic} like I'm 10 years old. Use simple language, metaphors, and examples. After each explanation, quiz me to check my understanding and reinforce learning.
+
+7️⃣ Turn rough notes into viral content
+
+Prompt: You're my ghostwriter. Turn this rough bullet outline into a high-impact {Linkedin post / Twitter thread / Medium article}. Keep it engaging, clear, and tailored to {target audience}. Here's my outline: {insert}
