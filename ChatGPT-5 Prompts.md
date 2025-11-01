@@ -34,3 +34,7 @@ Top 7 ChatGPT-5 Prompts for Next-Level Results
 
 2. Multi-step reasoning
    Prompt: "Break this task into clear, ordered steps before giving the final answer: (TASK)."
+
+3. Data-backed insights
+   Prompt: "Analyze this dataset (PASTE DATA) and give me patterns, anomalies, and actionable
+   recommendations in a table format."
