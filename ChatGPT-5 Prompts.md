@@ -31,3 +31,6 @@ Top 7 ChatGPT-5 Prompts for Next-Level Results
 1. Precision prompts
    Prompt: "Act as a (ROLE) and solve
    (PROBLEM). Ask me clarifying questions before answering so the response is 100% accurate."
+
+2. Multi-step reasoning
+   Prompt: "Break this task into clear, ordered steps before giving the final answer: (TASK)."
