@@ -44,3 +44,7 @@ Top 7 ChatGPT-5 Prompts for Next-Level Results
 
 5. Custom knowledge base
    Prompt: "Learn this document (PASTE) and act as my expert consultant whenever I ask questions about it."
+
+6. Auto-critique mode
+   Prompt: "Give me your answer to
+   (QUESTION), then critique your own response and improve it."
