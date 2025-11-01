@@ -41,3 +41,6 @@ Top 7 ChatGPT-5 Prompts for Next-Level Results
 
 4. Role-play scenarios
    Prompt: "Pretend you're a (ROLE). Walk me through how you'd handle (SITUATION) in detail, step by step."
+
+5. Custom knowledge base
+   Prompt: "Learn this document (PASTE) and act as my expert consultant whenever I ask questions about it."
