@@ -27,3 +27,7 @@ Prompt: Teach me {any complex skill or topic} like I'm 10 years old. Use simple 
 Prompt: You're my ghostwriter. Turn this rough bullet outline into a high-impact {Linkedin post / Twitter thread / Medium article}. Keep it engaging, clear, and tailored to {target audience}. Here's my outline: {insert}
 
 Top 7 ChatGPT-5 Prompts for Next-Level Results
+
+1. Precision prompts
+   Prompt: "Act as a (ROLE) and solve
+   (PROBLEM). Ask me clarifying questions before answering so the response is 100% accurate."
