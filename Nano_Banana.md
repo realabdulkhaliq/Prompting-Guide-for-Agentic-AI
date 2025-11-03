@@ -110,3 +110,6 @@ A cinematic ultrawide, low-angle shot of a young man standing in the same outdoo
 
 Prompt 18
 Hyper-realistic low-angle full-body shot of a tired young man (25-28) sitting on abandoned pond stairs under a banyan tree at morning light. He runs a hand through his hair, wearing an oversized light blue shirt, white tee, baggy basketball pants, rugged sports watch, and Converse sneakers. Sharp focus, shallow depth of field with creamy bokeh, natural soft lighting, cinematic color grading for a moody, detailed 8K look.
+
+Prompt 19
+A hyper-realistic close-up portrait
