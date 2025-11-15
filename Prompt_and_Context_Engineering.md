@@ -11,3 +11,15 @@ Many stopping conditions are used in practice. An important one involves a speci
 When your organization starts building its own LLM apps, developers can adjust these stopping rules and other parameters themselves, and these choices can affect answer completeness, cost, and formatting.
 
 Without access to live data, a model might still generate an answer based on its training data that doesn’t reflect real-world updates.
+
+**When we have many documents, we use RAG, where we first gather relevant information from documents and include only those in the prompt. But modern LLMs have long context windows, and we can easily include all the documents. Is RAG even necessary?**
+
+Modern LLMs like GPT-4.1 and Gemini 2.5 offer million-token context windows — enough to hold entire books. This naturally raises the question: If we can fit everything in, why bother using a subset?
+
+While these extended context windows are powerful, including all documents in the prompt isn’t always a good idea. There are several reasons why RAG still matters.
+
+First, RAG isn’t just about keeping the prompt short. It’s about selecting the most relevant parts of the documents. Overloading the context with too much or irrelevant information can hurt performance, and keeping the context and prompt relevant, concise, and accurate often leads to better answers.
+
+Second, even though LLMs can accept long contexts, they don’t process all parts equally well. Research has shown that AI models tend to focus more on the beginning and end of a prompt and may miss important information in the middle.
+
+Finally, longer prompts mean more tokens, which increases API costs and slows down responses. This matters in real-world applications where cost and speed are important.
