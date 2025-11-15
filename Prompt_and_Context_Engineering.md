@@ -23,3 +23,5 @@ First, RAG isn’t just about keeping the prompt short. It’s about selecting t
 Second, even though LLMs can accept long contexts, they don’t process all parts equally well. Research has shown that AI models tend to focus more on the beginning and end of a prompt and may miss important information in the middle.
 
 Finally, longer prompts mean more tokens, which increases API costs and slows down responses. This matters in real-world applications where cost and speed are important.
+
+Hallucinations cannot be fully eliminated with current LLM technology. They arise from the probabilistic nature of language models, which generate text by predicting likely token sequences based on training data. But careful prompt engineering and strategies such as RAG, fine-tuning on domain-specific data, and post-processing with rule-based checks or external validation can reduce hallucinations in specific use cases.
