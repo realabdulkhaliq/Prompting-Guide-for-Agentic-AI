@@ -36,3 +36,7 @@ No.
 The only way to truly guarantee identical wording is to store (cache) the answer the first time it is generated and serve that stored text whenever the same question is detected. This approach works well if your repeat detection is perfect, but in practice, reworded or slightly altered questions may bypass the cache and trigger LLM regeneration — which can produce a different answer.
 
 In short: You can make answers extremely consistent, but a 100% wording guarantee is not achievable with current technology.
+
+## Prompt Engineering Vs Context Engineering
+
+Prompt engineering = crafting the instruction you give the model. Context engineering = curating (Managing/Organizing/Collecting) the information the model can see when following that instruction.
