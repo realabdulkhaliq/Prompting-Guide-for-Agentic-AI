@@ -31,3 +31,8 @@ An increasingly popular alternative is to use an “AI judge,” which is typica
 **Automated tools provide speed and scale, and humans provide reliability.**
 
 **We are building an LLM-based chatbot and would like to guarantee that its answer to a question stays unchanged when different users ask that same question (or one user asks the same question at different times). Is this possible?**
+
+No.
+The only way to truly guarantee identical wording is to store (cache) the answer the first time it is generated and serve that stored text whenever the same question is detected. This approach works well if your repeat detection is perfect, but in practice, reworded or slightly altered questions may bypass the cache and trigger LLM regeneration — which can produce a different answer.
+
+In short: You can make answers extremely consistent, but a 100% wording guarantee is not achievable with current technology.
