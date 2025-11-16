@@ -29,3 +29,5 @@ Hallucinations cannot be fully eliminated with current LLM technology. They aris
 An increasingly popular alternative is to use an “AI judge,” which is typically another LLM that can evaluate or verify the outputs of the first tool. This approach allows for scalable and fast accuracy-checking, but it comes with limitations: The judge itself may hallucinate or fail to match human judgment, particularly in complex cases. Some improvements include using multiple judges for comparison, combining judge feedback with retrieval-based fact-checking, or designing workflows where low-confidence outputs are escalated to humans.
 
 **Automated tools provide speed and scale, and humans provide reliability.**
+
+**We are building an LLM-based chatbot and would like to guarantee that its answer to a question stays unchanged when different users ask that same question (or one user asks the same question at different times). Is this possible?**
