@@ -45,3 +45,5 @@ In short: You can make answers extremely consistent, but a 100% wording guarante
 Prompt engineering = crafting the instruction you give the model. Context engineering = curating (Managing/Organizing/Collecting) the information the model can see when following that instruction.
 
 **Top K**: "Top k" refers to a method for finding the k most frequent or highest-ranked items from a larger set.
+
+**Top P**: "Top p," or top-p sampling (also known as nucleus sampling), is a text generation method in AI models that controls output diversity by selecting the next word from the smallest set of tokens whose cumulative probability is greater than or equal to a threshold p.
