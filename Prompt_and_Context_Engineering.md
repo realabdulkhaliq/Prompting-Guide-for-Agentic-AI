@@ -43,3 +43,5 @@ In short: You can make answers extremely consistent, but a 100% wording guarante
 ## Prompt Engineering Vs Context Engineering
 
 Prompt engineering = crafting the instruction you give the model. Context engineering = curating (Managing/Organizing/Collecting) the information the model can see when following that instruction.
+
+**Top K**: "Top k" refers to a method for finding the k most frequent or highest-ranked items from a larger set.
