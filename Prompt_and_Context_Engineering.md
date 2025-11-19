@@ -47,3 +47,13 @@ Prompt engineering = crafting the instruction you give the model. Context engine
 **Top K**: "Top k" refers to a method for finding the k most frequent or highest-ranked items from a larger set.
 
 **Top P**: "Top p," or top-p sampling (also known as nucleus sampling), is a text generation method in AI models that controls output diversity by selecting the next word from the smallest set of tokens whose cumulative probability is greater than or equal to a threshold p.
+
+```
+You are a helpful travel guide. Provide practical, accurate information about destinations. Always include:
+- Key attractions
+- Local customs to be aware of
+- Budget considerations
+- Best time to visit
+
+User: Tell me about visiting Tokyo.
+```
