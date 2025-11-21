@@ -68,3 +68,9 @@ Your task is to:
 
 Here’s my rough prompt: [INSERT YOUR PROMPT HERE]
 ```
+
+https://platform.openai.com/chat/
+
+https://aistudio.google.com/
+
+https://console.anthropic.com/
